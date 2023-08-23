@@ -138,8 +138,8 @@ cv2.destroyAllWindows()
 
 
 ### iv) Rotate and display the video
-</br>
-</br>
+<img width="635" alt="image" src="https://github.com/Prakashmathi2004/Image-Acquisition-from-Web-Cameraa/assets/118350045/98823789-11b4-461b-9742-0e880c4ab369">
+
 
 
 
